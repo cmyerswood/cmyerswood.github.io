@@ -313,19 +313,23 @@ footer{
 }
 
 #creature3 {
-	height: 600px;
+	max-height: 600px;
+	width: 140%;
 }
 
 #creature4 {
-	height: 800px;
+	max-height: 800px;
+	width: 199%;
 }
 
 #creature5 {
-	height: 400px;
+	max-height: 400px;
+	width: 90%;
 }
 
 #creature6 {
-	height: 550px;
+	max-height: 550px;
+	width: 150%;
 }
 
 #creature7 {
@@ -333,7 +337,8 @@ footer{
 }
 
 #creature8 {
-	height: 550px;
+	max-height: 550px;
+	width: 160%;
 }
 
 #creature9 {
@@ -341,15 +346,18 @@ footer{
 }
 
 #creature10 {
-	height: 500px;
+	max-height: 500px;
+	width: 170%;
 }
 
 #creature11 {
-	height: 800px;
+	max-height: 800px;
+	width: 185%;
 }
 
 #creature12 {
-	height: 800px;
+	max-height: 800px;
+	width: 185%;
 }
 
 #creature13 {
@@ -365,7 +373,8 @@ footer{
 }
 
 #creature16 {
-	height: 100px;
+	max-height: 100px;
+	width: 50%;
 }
 
 #creature17 {
